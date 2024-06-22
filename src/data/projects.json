@@ -1,0 +1,26 @@
+[
+  {
+    "title": "E-Commerce Application",
+    "imageSrc": "projects/cart.png",
+    "description":" Built an e-commerce site with Angular and Django REST Framework, featuring user authentication, shopping cart, and checkout.",
+    "skills": ["Angular", "Django", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/port.jpeg",
+    "description":"Created a personal portfolio using React, HTML, and CSS. Features a responsive design with sections for About Me, Projects, Experience, Skills, and Contact.",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Crickk 11 Scrutiny",
+    "imageSrc": "projects/cricket.png",
+    "description":"Developed a machine learning based web application, aimed at predicting various outcomes in the game of cricket, like match result, first innings score.",
+    "skills": ["Machine Learning", "Python"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

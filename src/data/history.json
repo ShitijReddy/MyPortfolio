@@ -1,0 +1,17 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Brane Enterprises",
+    "startDate": "Jul, 2023",
+    "endDate": "Present",
+    "experiences": ["Played a key role in developing and maintaining an ERP system used by 3,000 employees, boosting operational efficiency and user satisfaction by 40%.",
+     "Engineered reusable Angular UI components using atomic design, cutting development time by 70% and ensuring a consistent interface.","Extended ERP functionality to mobile with React Native, allowing 1,500 employees to manage leave requests and operational tasks on-the-go."]
+  },
+  {
+    "role": "Project Intern",
+    "organisation": "Brane Enterprises",
+    "startDate": "Feb, 2023",
+    "endDate": "Jul, 2023",
+    "experiences": ["Improved user satisfaction by 15% through responsive UI implementation in Angular.", "Enhanced core ERP functionalities, gaining experience in Angular and React Native.","Contributed to better usability across web and mobile by assisting in UI component implementation."]
+  }
+]
